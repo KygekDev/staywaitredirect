@@ -1,0 +1,2 @@
+# staywaitredirect
+StayWait Server Redirect
